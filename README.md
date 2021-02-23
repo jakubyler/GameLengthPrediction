@@ -1,6 +1,6 @@
 # GameLengthPrediction
 
-In this project we predicty League of Legends game length based on match characteristics.
+In this project we predict League of Legends game length based on match characteristics.
 
 Libraries:
 numpy, pandas, matplotlib, seaborn, sklearn
